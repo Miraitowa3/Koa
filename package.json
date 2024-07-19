@@ -1,0 +1,12 @@
+{
+  "name": "手写koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
